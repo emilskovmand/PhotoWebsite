@@ -1,4 +1,8 @@
-# momsPhotoWebsite
+# Moms Photo Website
+
+***Website: http://tinasphoto.dk/***
+
+Domain publisher is *unoeuro.com*
 
 Website is made with the thought of showing images and not making a complex design and interactable website.
 
