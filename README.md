@@ -9,7 +9,7 @@ Website is made with the thought of showing images and not making a complex desi
 The contact form does work. And is made with the PHPMailer library. 
 **Link:** https://github.com/PHPMailer/PHPMailer
 
-New version of the website is soon complete, i didn't like some of the designs on the current one that was made 29/11 - 2019.
+New version of the website is soon complete, i didn't like some of the designs on the current one that was complete on this date: 29/11 - 2019.
 
 The new version will not have a random generated background and less loading. Hopefully with the use of the LazyLoad library. 
 **Link:** https://github.com/verlok/lazyload
